@@ -1,1 +1,9 @@
 # 100 Days of Python
+
+Daily exercises and projects from the 100 Days of Code Python course.
+
+## Progress
+
+- Day 1: Python basics and Band Name Generator
+- Day 2: Data types, numbers, and Tip Calculator
+- Day 3: Conditional logic and Treasure Island
