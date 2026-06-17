@@ -9,3 +9,4 @@ Daily exercises and projects from the 100 Days of Code Python course.
 - Day 3: Conditional logic and Treasure Island
 - Day 4: Randomization, lists, and Rock Paper Scissors
 - Day 5: For loops, ranges, and Password Generator
+- Day 6: Functions, indentation, while loops, and Number Guessing
